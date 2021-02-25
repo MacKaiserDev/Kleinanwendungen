@@ -1,0 +1,15 @@
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\bin\Debug\David Dienststart.exe.config
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\bin\Debug\David Dienststart.exe
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\bin\Debug\David Dienststart.pdb
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.exe
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.pdb
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\bin\Debug\David Dienststart.exe.config
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\bin\Debug\David Dienststart.exe
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\bin\Debug\David Dienststart.pdb
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\bin\Debug\System.Management.dll
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.exe
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.pdb

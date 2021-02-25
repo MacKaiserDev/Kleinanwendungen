@@ -1,0 +1,24 @@
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\bin\Release\David Dienststart.exe.config
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\bin\Release\David Dienststart.exe
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\bin\Release\David Dienststart.pdb
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.exe
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.pdb
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\bin\Release\David Dienststart.exe.manifest
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\bin\Release\David Dienststart.application
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.exe.manifest
+C:\Users\stefa\source\repos\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.application
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\bin\Release\David Dienststart.exe.config
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\bin\Release\David Dienststart.exe.manifest
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\bin\Release\David Dienststart.application
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\bin\Release\David Dienststart.exe
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\bin\Release\David Dienststart.pdb
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.exe.manifest
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.application
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.exe
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.pdb
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\bin\Release\System.Management.dll
+C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Release\David Dienststart.csproj.CopyComplete
