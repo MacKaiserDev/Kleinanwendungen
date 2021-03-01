@@ -13,3 +13,12 @@ C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Debug\Davi
 C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.csproj.CopyComplete
 C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.exe
 C:\Users\Administrator\Desktop\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.pdb
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\David Dienststart\bin\Debug\David Dienststart.exe.config
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\David Dienststart\bin\Debug\David Dienststart.exe
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\David Dienststart\bin\Debug\David Dienststart.pdb
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\David Dienststart\bin\Debug\System.Management.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.csprojAssemblyReference.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.csproj.CoreCompileInputs.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.csproj.CopyComplete
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.exe
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\David Dienststart\obj\Debug\David Dienststart.pdb
