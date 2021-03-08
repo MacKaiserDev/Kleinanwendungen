@@ -1,0 +1,5 @@
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwendung.Functions\bin\Debug\Nunit.Testanwendung.Functions.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwendung.Functions\bin\Debug\Nunit.Testanwendung.Functions.pdb
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwendung.Functions\obj\Debug\Nunit.Testanwendung.Functions.csproj.CoreCompileInputs.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwendung.Functions\obj\Debug\Nunit.Testanwendung.Functions.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwendung.Functions\obj\Debug\Nunit.Testanwendung.Functions.pdb

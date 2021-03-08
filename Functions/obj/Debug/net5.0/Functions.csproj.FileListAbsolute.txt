@@ -1,0 +1,12 @@
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\bin\Debug\net5.0\Functions.deps.json
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\bin\Debug\net5.0\Functions.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\bin\Debug\net5.0\ref\Functions.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\bin\Debug\net5.0\Functions.pdb
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\obj\Debug\net5.0\Functions.csprojAssemblyReference.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\obj\Debug\net5.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\obj\Debug\net5.0\Functions.AssemblyInfoInputs.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\obj\Debug\net5.0\Functions.AssemblyInfo.cs
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\obj\Debug\net5.0\Functions.csproj.CoreCompileInputs.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\obj\Debug\net5.0\Functions.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\obj\Debug\net5.0\ref\Functions.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Functions\obj\Debug\net5.0\Functions.pdb

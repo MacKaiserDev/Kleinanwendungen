@@ -16,5 +16,20 @@ namespace nUnit_Test
             Assert.AreEqual(2, 2);
         }
 
+        [TestCase]
+        public static void Test1()
+        {
+            Assert.AreEqual(2, 2);
+        }
+
+        [TestCase]
+        public static void Test2()
+        {
+            Assert.AreEqual(4, 2);
+        }
+
+
+       
+
     }
 }
