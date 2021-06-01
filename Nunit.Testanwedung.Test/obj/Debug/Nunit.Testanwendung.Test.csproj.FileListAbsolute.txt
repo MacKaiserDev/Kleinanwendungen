@@ -1,0 +1,12 @@
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\bin\Debug\Nunit.Testanwedung.Test.exe.config
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\bin\Debug\Nunit.Testanwedung.Test.exe
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\bin\Debug\Nunit.Testanwedung.Test.pdb
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\bin\Debug\nunit.framework.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\bin\Debug\Nunit.Testanwendung.Functions.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\bin\Debug\Nunit.Testanwendung.Functions.pdb
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\bin\Debug\nunit.framework.xml
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\obj\Debug\Nunit.Testanwendung.Test.csprojAssemblyReference.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\obj\Debug\Nunit.Testanwendung.Test.csproj.CoreCompileInputs.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\obj\Debug\Nunit.Testanwendung.Test.csproj.CopyComplete
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\obj\Debug\Nunit.Testanwedung.Test.exe
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\Nunit.Testanwedung.Test\obj\Debug\Nunit.Testanwedung.Test.pdb

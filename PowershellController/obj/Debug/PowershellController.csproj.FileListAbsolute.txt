@@ -1,0 +1,11 @@
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\obj\Debug\PowershellController.csprojAssemblyReference.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\obj\Debug\PowershellController.csproj.CoreCompileInputs.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\bin\Debug\PowershellController.exe.config
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\bin\Debug\PowershellController.exe
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\bin\Debug\PowershellController.pdb
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\bin\Debug\System.Management.Automation.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\bin\Debug\Microsoft.Management.Infrastructure.dll
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\bin\Debug\System.Management.Automation.xml
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\obj\Debug\PowershellController.csproj.CopyComplete
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\obj\Debug\PowershellController.exe
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\PowershellController\obj\Debug\PowershellController.pdb

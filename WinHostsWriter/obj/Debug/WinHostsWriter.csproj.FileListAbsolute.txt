@@ -1,0 +1,6 @@
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\WinHostsWriter\bin\Debug\WinHostsWriter.exe
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\WinHostsWriter\bin\Debug\WinHostsWriter.pdb
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\WinHostsWriter\obj\Debug\WinHostsWriter.csprojAssemblyReference.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\WinHostsWriter\obj\Debug\WinHostsWriter.csproj.CoreCompileInputs.cache
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\WinHostsWriter\obj\Debug\WinHostsWriter.exe
+G:\Projekte\Programming\GIT\Unity-Projekte\Kleinanwendungen\WinHostsWriter\obj\Debug\WinHostsWriter.pdb
