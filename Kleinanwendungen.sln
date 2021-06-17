@@ -19,7 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowershellController", "Pow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinHostsWriter", "WinHostsWriter\WinHostsWriter.csproj", "{B3DEF571-F408-4D8A-8DE9-2DA770466D67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json-Test", "Json-Test\Json-Test.csproj", "{5142871B-2A26-4446-BA9C-6CED12DE4818}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Json-Test", "Json-Test\Json-Test.csproj", "{5142871B-2A26-4446-BA9C-6CED12DE4818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_Await", "Task_Await\Task_Await.csproj", "{5B23BA8F-FCD8-4F33-93BE-6568A9D2EA5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{5142871B-2A26-4446-BA9C-6CED12DE4818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5142871B-2A26-4446-BA9C-6CED12DE4818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5142871B-2A26-4446-BA9C-6CED12DE4818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B23BA8F-FCD8-4F33-93BE-6568A9D2EA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B23BA8F-FCD8-4F33-93BE-6568A9D2EA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B23BA8F-FCD8-4F33-93BE-6568A9D2EA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B23BA8F-FCD8-4F33-93BE-6568A9D2EA5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +72,7 @@ Global
 		{D369E9E6-040F-4BE2-917F-A9CD81530344} = {82D8D1FC-F366-484C-95B6-B78210840752}
 		{B3DEF571-F408-4D8A-8DE9-2DA770466D67} = {82D8D1FC-F366-484C-95B6-B78210840752}
 		{5142871B-2A26-4446-BA9C-6CED12DE4818} = {82D8D1FC-F366-484C-95B6-B78210840752}
+		{5B23BA8F-FCD8-4F33-93BE-6568A9D2EA5C} = {82D8D1FC-F366-484C-95B6-B78210840752}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1706169F-4312-4509-87E1-1C7F90A6D6AA}

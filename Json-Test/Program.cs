@@ -31,10 +31,10 @@ namespace Json_Test
 
             Person newPerson = JsonConvert.DeserializeObject<Person>(Json);
             Console.WriteLine(newPerson.Vornahme);
-            foreach (var item in newPerson)
-            {
+            //foreach (var item in newPerson)
+            //{
 
-            }
+            //}
 
             Console.ReadLine();
         }
